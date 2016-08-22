@@ -1,0 +1,38 @@
+/* Inserta tu CSS aqui */
+
+.caja1{
+	width: 100px;
+	height: 100px;
+	margin: 10px;
+	background-color: #35478C;
+	border: 1px dashed #2F1383;
+}
+
+#caja2{
+	width: 330px;
+	height: 100px;
+	margin: 10px;
+	background-color: #527593;
+	border: 1px dashed #2F1383;	
+	padding: 10px;
+
+}
+
+.dos{
+	width: 100px;
+	height: 100px;
+	background-color: #ADD5F7;
+	display: inline-block;
+	border: 1px dashed #2F1383;
+	margin-right: 5px;
+
+}
+
+.caja3{
+	width: 100px;
+	height: 100px;
+	margin: 10px;
+	background-color: #4E7AC7;
+	display: inline-block;
+	border: 1px dashed #2F1383;	
+}
